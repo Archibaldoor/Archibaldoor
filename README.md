@@ -5,4 +5,9 @@
 ⚛️ Building modern, scalable interfaces using React and Redux  
 🌐 Portfolio: [aleskerov.vercel.app](https://aleskerov.vercel.app/)
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archibaldoor)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
