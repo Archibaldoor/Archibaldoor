@@ -1,8 +1,9 @@
 # Hi, I'm Arthur 👋
 
-👨‍💻 Full-Stack Developer focused on TypeScript and clean architecture  
-🛠️ Backend expertise with Node.js, Express, and PostgreSQL  
-⚛️ Building modern, scalable interfaces using React and Redux  
+👨‍💻 Full-Stack Developer with a focus on TypeScript and clean architecture  
+🛠️ Backend: Node.js, Express, PostgreSQL · Frontend: React, Redux  
+⚙️ Writing scalable, maintainable code with a modern tech stack  
+🎨 Graphic designer with a growing interest in UI/UX  
 🌐 Website: [aleskerov.vercel.app](https://aleskerov.vercel.app/)
 
 # 💻 Tech Stack
