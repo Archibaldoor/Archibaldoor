@@ -3,7 +3,7 @@
 👨‍💻 Full-Stack Developer focused on TypeScript and clean architecture  
 🛠️ Backend expertise with Node.js, Express, and PostgreSQL  
 ⚛️ Building modern, scalable interfaces using React and Redux  
-🌐 Portfolio: [aleskerov.vercel.app](https://aleskerov.vercel.app/)
+🌐 Website: [aleskerov.vercel.app](https://aleskerov.vercel.app/)
 
 # 💻 Tech Stack
 
